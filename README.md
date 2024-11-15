@@ -6,8 +6,8 @@ This repository contains all the lab assignments and projects from the **Complet
 - [Course Overview](#course-overview)
 - [Technologies Used](#technologies-used)
 - [Projects](#projects)
-- [Getting Started](#getting-started)
-- [License](#license)
+
+
 
 ## Course Overview
 In this course, you will:
